@@ -48,4 +48,4 @@ A Body Mass Index built with Flutter. It takes your height, weight and Age.
                 </a>
             </div> <br/>
 
-> :blue_heart:   Fluttering
+> :blue_heart: &nbsp; Fluttering
