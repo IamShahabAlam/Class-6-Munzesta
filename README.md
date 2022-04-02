@@ -34,13 +34,13 @@ A Body Mass Index built with Flutter. It takes your height, weight and Age.
                 <a href="https://www.facebook.com/iamShahabAlam/">
                     <img src="https://www.facebook.com/images/fb_icon_325x325.png" style= "height:25px;"  alt="Facebook Icon" >
                 </a>
-            </div> 
+            </div> <br/>
 
  <div class="social-icons-image">
                 <a href="https://github.com/IamShahabAlam">
                     <img src="https://pngimg.com/uploads/github/github_PNG69.png"  style = "height:30px" alt="Twitter Icon">
                 </a>
-            </div>
+            </div><br/>
 
 <div class="social-icons-image">
                 <a href="https://twitter.com/IamShahabAlam">
